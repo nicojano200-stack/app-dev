@@ -84,6 +84,11 @@ Stream **Twinkling Watermelon** on [Moviebox](https://moviebox.ph/) or
 
 ---
 
+## Status
+Commit directly to the readme-edits branch
+
+---
+
 *This README was created as part of a GitHub STI College activity.*
 
 *Last updated by: John Alfred Nicolas I. Jano*
