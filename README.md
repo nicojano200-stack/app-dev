@@ -84,6 +84,11 @@ Stream **Twinkling Watermelon** on [Moviebox](https://moviebox.ph/) or
 
 ---
 
+## Status
+✅ Currently watching and highly recommended!
+
+---
+
 *This README was created as part of a GitHub STI College activity.*
 
 *Last updated by: John Alfred Nicolas I. Jano*
